@@ -1,1 +1,0 @@
-This Is My ALX Portfolio Project. It's About Community Platform.
